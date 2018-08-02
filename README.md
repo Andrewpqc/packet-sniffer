@@ -21,7 +21,7 @@ git clone https://github.com/Andrewpqc/packet-sniffer.git
 This program outputs the statistics of the number of various network packets on the STDOUT, and the details of each network package will be stored in `log.txt` which is under current directory.
 
 ### log example
-the following is a example log case of a TCP package:
+the following is a example log case of a TCP packte:
 ```
 IP Header
    |-IP Version        : 4
