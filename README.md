@@ -1,7 +1,7 @@
-### packte-sniffer[https://github.com/Andrewpqc/packet-sniffer]
+### [packte-sniffer](https://github.com/Andrewpqc/packet-sniffer)
 =====================
 
-Network sniffer for linux. Use C-Unix sockets. Support TCP, UDP, ICMP.
+Network sniffer for linux. Use C-Unix raw sockets. Support TCP, UDP, ICMP.
 
 ### Usage
 ``` bash
